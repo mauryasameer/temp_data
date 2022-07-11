@@ -1,0 +1,38 @@
+Intents,class
+What option do you have for girls?,PATTERN
+What options do you have for boys?,PATTERN
+Can you please send the available patterns?,PATTERN
+Do you provide dresses for small girls?,PATTERN
+Do you have different patterns of gowns?,PATTERN
+Do you have same pattern available for baby and adult?,PATTERN
+I want to provide feedback for the order that I received?,PATTERN
+Can I get the mother and chid duo?,ADDRESS
+Can you please send me the size chart?,ADDRESS
+Can I get plus size for my kid?,ADDRESS
+Do you have physical stores?,ADDRESS
+can you deliver internationally,ADDRESS
+is internation delivery possible?,ADDRESS
+Can you send my product at Gurgaon address?,ADDRESS
+Please send location of your store,ADDRESS
+Do you have dresses available for 6 month old child?,ADDRESS
+Do you send your products internationally?,ADDRESS
+Do you accept G pay?,PAYMENT
+Can I make the online payment?,PAYMENT
+Is COD available?,PAYMENT
+Can I make payment through PayPal?,PAYMENT
+I didn't receive the payment receipt. Can you please share?,PAYMENT
+Do you have cash on delivery option?,PAYMENT
+Can you please send me the payment slip,PAYMENT
+Which payment mode do I need to select?,PAYMENT
+Please send your bank details for online payment?,PAYMENT
+What is the payment mode?,PAYMENT
+Do you have dresses for toddlers?,AGE
+Do you have dresses for babies?,AGE
+What age groups do you have dresses for?,AGE
+Do you have dresses for both infants and toddlers?,AGE
+Is it possible to get my order within 2 days?,DELIVERY
+I placed my order today. When will I receive it?,DELIVERY
+Can I get my order tomorrow?,DELIVERY
+What is the estimated time of delivery?,DELIVERY
+What is the estimated delivery time of my product?,DELIVERY
+How soon I will get my product?,DELIVERY
